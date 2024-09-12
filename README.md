@@ -99,5 +99,10 @@ ___
 
 <img src="https://github.com/user-attachments/assets/bcffa775-2afc-480f-ac44-4d10518e77dd" alt = "codigo" width="400" height="250" max-width = 100%>&nbsp; &nbsp;<img src="https://github.com/user-attachments/assets/66c2fb9b-8b35-4652-877c-4e7e6e73a60c" alt = "codigo" width="400" height="250" max-width=100%>
 
+
+|  Conclusão  |
+|---------------------------------------------|
+
+Após criarmos uma filtro que selecionou os pontos de potencia ótima (pontos azuis) com uma margem de 5% pra mais e pra menos, podemos descartar todos os pontos fora desses extremos (pontos vermelhos). Em azul temos um desempenho muito eficiente da turbina. Os pontos em laranja são considerados pontos em que a turbina não está funcionando, por isso sua potencia é zero.
 </div>
 
