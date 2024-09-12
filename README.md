@@ -103,6 +103,8 @@ ___
 |  Conclusão  |
 |---------------------------------------------|
 
-Após criarmos uma filtro que selecionou os pontos de potencia ótima (pontos azuis) com uma margem de 5% pra mais e pra menos, podemos descartar todos os pontos fora desses extremos (pontos vermelhos). Em azul temos um desempenho muito eficiente da turbina. Os pontos em laranja são considerados pontos em que a turbina não está funcionando, por isso sua potencia é zero.
+|Após criarmos uma filtro que selecionou os pontos de potencia ótima (pontos azuis) com uma margem de 5% pra mais e pra menos, podemos descartar todos os pontos fora desses extremos (pontos vermelhos). Em azul temos um desempenho muito eficiente da turbina. Os pontos em laranja são considerados pontos em que a turbina não está funcionando, por isso sua potencia é zero.|
+|----------------------------------------------------|
+
 </div>
 
