@@ -6,7 +6,7 @@
 >  de forma detalhada e organizada, os projetos que julguei de extrema relevância para meu aprendizado e que mostram habilidades importantes que adquiri ao fazê-los. Se divirta!! 😎
 
 >[!IMPORTANT]
-> Se você achar meu readme legal, da uma stars ⭐ neste readme, isso vai mostrar que toda a minha dedicação tem gerado resultados. Agradeço desde já! 🤝
+> Se você achar meu readme/repositório legal, da uma stars ⭐ neste repositório, isso vai mostrar que toda a minha dedicação tem gerado resultados. Agradeço desde já! 🤝
 
 <img src="https://github.com/user-attachments/assets/16a79a0e-238e-403f-b7e0-84c770e0d202" alt = "codigo" width="1200" height="200">
 
