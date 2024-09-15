@@ -36,11 +36,11 @@ ___
 
  ## Projeto Análise de uma Turbina Eólica <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-Projeto de análise de dados de uma turbina eólica com Python, utilizando o pandas, Seaborn e matplotlib que são duas bibliotecas para criação de gráficos no Python.
+Projeto de análise de dados de uma turbina eólica com Python, utilizando o pandas, Seaborn e matplotlib que são três bibliotecas para análise estatistica de dados e criação de gráficos no Python. 
 
-Fazer a importação dos dados, plotar os dados em gráficos para facilitar a visualização e fazer algumas análises e vamos gerar um gráfico final com a última análise visual!
+O objetivo é fazer a importação dos dados, plotar os dados em gráficos para facilitar a visualização e fazer algumas análises e gerar um gráfico final com a análise principal.
 
-O objetivo final é ler o gráfico final gerado e ver quem está dentro e fora do limite aceitavel da curva obtida.
+A análise principal consiste em ler o gráfico final gerado e ver quem está dentro e fora do limite aceitavel da curva obtida de potencia por velocidade do vento. Todos os pontos fora da curva ótima / aceitável, serão rejeitados.
 
 
 ## Tecnologias & Lingagens de Programação 🛠️ 
